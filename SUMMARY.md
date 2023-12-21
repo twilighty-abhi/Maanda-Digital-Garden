@@ -27,9 +27,9 @@
 * [😍 The Good](life/the-good.md)
 * [😎 Trying to be an Engineer!](life/trying-to-be-an-engineer.md)
 
-## 📚 Book Notes
+## 📚 Knowledge Board
 
-* [Page 1](book-notes/page-1.md)
+* [Learning Resources](knowledge-board/learning-resources.md)
 
 ## 👀 How-To's
 
